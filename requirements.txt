@@ -2,6 +2,5 @@ streamlit
 requests
 openai
 geopy
-json
 urllib
 streamlit.components
