@@ -13,7 +13,7 @@ import requests
 #from streamlit.report_thread import get_report_ctx
 #from streamlit.server.server import Server
 # Set up OpenAI API
-openai.api_key = "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"
+
 
 def get_gmaps_html(lat, lon):
     gmaps_html = f"""
